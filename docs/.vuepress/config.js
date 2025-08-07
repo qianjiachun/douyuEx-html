@@ -40,7 +40,16 @@ module.exports = {
             },
             {
                 text: '反馈建议',
-                link: 'https://greasyfork.org/zh-CN/scripts/394497-douyuex-%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD%E9%97%B4%E5%A2%9E%E5%BC%BA%E6%8F%92%E4%BB%B6/feedback'
+                items: [
+                    {
+                        text: '兔小巢（推荐）',
+                        link: 'https://txc.qq.com/products/771637'
+                    },
+                    {
+                        text: 'Greasyfork（需翻墙）',
+                        link: 'https://greasyfork.org/zh-CN/scripts/394497-douyuex-%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD%E9%97%B4%E5%A2%9E%E5%BC%BA%E6%8F%92%E4%BB%B6/feedback'
+                    }
+                ]  
             },
             {
                 text: '扩展',
