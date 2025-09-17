@@ -1,6 +1,14 @@
 ## 更新内容
 <!-- <advertisement/> -->
 
+### 2025年9月17日
+1. 【新增】弹幕小尾巴新增**前缀**功能[#122](https://github.com/qianjiachun/douyuEx/pull/122)
+2. 【新增】粉丝牌弹窗新增显示主播口袋当前生效道具功能，用于判断是否有双倍卡  
+![img1](https://s1.imagehub.cc/images/2025/09/17/d2829ca3e1ac2a9b871299b4706e806a.png)
+![img2](https://s1.imagehub.cc/images/2025/09/17/4f99cf87e9b022f660bc65104a892104.png)
+
+
+
 ### 2025年9月4日
 1. 【修复】修复了屏蔽弹幕背景会把钻粉彩字屏蔽的bug
 

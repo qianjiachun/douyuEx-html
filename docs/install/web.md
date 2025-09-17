@@ -13,10 +13,11 @@
 <!-- <advertisement /> -->
 
 ### 本次更新内容
-1. 【修复】修复了屏蔽弹幕背景会把钻粉彩字屏蔽的bug
-2. 【修复】修复了CDN失效导致请求失败的bug
-3. 【修复】修复了新版页面友邻会反复打开关闭的bug
-4. 【修复】修复了夜间模式下旧版页面部分字体颜色不正确的bug
+1. 【新增】弹幕小尾巴新增**前缀**功能[#122](https://github.com/qianjiachun/douyuEx/pull/122)
+2. 【新增】粉丝牌弹窗新增显示主播口袋当前生效道具功能，用于判断是否有双倍卡  
+![img1](https://s1.imagehub.cc/images/2025/09/17/d2829ca3e1ac2a9b871299b4706e806a.png)
+![img2](https://s1.imagehub.cc/images/2025/09/17/4f99cf87e9b022f660bc65104a892104.png)
+
 
 
 ### 没有精灵球图标？
@@ -26,6 +27,7 @@
   
 2. 还不行的话尝试[重新安装tampermonkey](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
 
+3. [chrome中斗鱼ex安装后无效果解决办法](https://www.bilibili.com/opus/1098520091678474243)
 
   
 <br/>
