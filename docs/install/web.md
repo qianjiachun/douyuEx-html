@@ -13,10 +13,11 @@
 <!-- <advertisement /> -->
 
 ### 本次更新内容
-1. 【新增】弹幕小尾巴新增**前缀**功能[#122](https://github.com/qianjiachun/douyuEx/pull/122)
-2. 【新增】粉丝牌弹窗新增显示主播口袋当前生效道具功能，用于判断是否有双倍卡  
-![img1](https://s1.imagehub.cc/images/2025/09/17/d2829ca3e1ac2a9b871299b4706e806a.png)
-![img2](https://s1.imagehub.cc/images/2025/09/17/4f99cf87e9b022f660bc65104a892104.png)
+1. 【新增】视频区相机按钮支持关闭以及7天内不再显示
+2. 【新增】工具条内新增[FKBUFF](https://fkbuff.com/)按钮（个人新产品宣传）
+3. 【修复】修复新版UI下简洁模式全屏显示视频控制栏位置不正确问题[#123](https://github.com/qianjiachun/douyuEx/pull/123)
+4. 【修复】修复回复按钮不显示的BUG
+5. 【优化】取消了工具条淡出淡入效果
 
 
 
@@ -25,9 +26,9 @@
 ![tampermonkey](https://s1.imagehub.cc/images/2024/11/05/952021a57d03a82bf99c33fa360f93f7.png)
 ![dev](https://s1.imagehub.cc/images/2024/11/18/36658677e409160586b874ffc0f7a354.png)
   
-2. 还不行的话尝试[重新安装tampermonkey](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
+2. [chrome中斗鱼ex安装后无效果解决办法](https://www.bilibili.com/opus/1098520091678474243)
 
-3. [chrome中斗鱼ex安装后无效果解决办法](https://www.bilibili.com/opus/1098520091678474243)
+3. 还不行的话尝试[重新安装tampermonkey](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
 
   
 <br/>
