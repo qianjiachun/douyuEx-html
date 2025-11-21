@@ -293,3 +293,9 @@
 ### 显示主播口袋
 - 在粉丝牌弹窗显示主播口袋当前生效道具
 - 用于判断是否有双倍卡
+
+### 画质增强/实时视频翻译
+- 仅支持Edge浏览器
+- [画质增强功能说明](https://www.microsoft.com/zh-cn/edge/features/enhance-video?form=MT0160)
+- [实时视频翻译功能说明](https://www.microsoft.com/zh-cn/edge/features/real-time-video-translation?form=MA13FJ)
+- 在直播滤镜中开启该功能
