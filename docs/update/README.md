@@ -1,6 +1,10 @@
 ## 更新内容
 <!-- <advertisement/> -->
 
+### 2025年11月26日
+1. 【修复】修复屏蔽重复弹幕和屏蔽弹幕背景失效的bug
+
+
 ### 2025年11月21日
 1. 【新增】新增[画质增强](https://www.microsoft.com/zh-cn/edge/features/enhance-video?form=MT0160)，[实时视频翻译](https://www.microsoft.com/zh-cn/edge/features/real-time-video-translation?form=MA13FJ)，仅支持Edge浏览器
 2. 【新增】屏蔽重复弹幕可支持自定义时间，并且支持逐渐放大重复弹幕和重复弹幕计数

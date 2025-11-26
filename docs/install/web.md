@@ -18,6 +18,7 @@
 ![img1](https://s1.imagehub.cc/images/2025/11/21/740cf1991b56ecaa183d656125a5d0fb.png)
 ![img2](https://c-yuba.douyucdn.cn/yubavod/b/zEqAvQaXrd5L/c16fdac3db1903db3a39a6557c2b5ab5.gif)
 ![img3](https://s1.imagehub.cc/images/2025/11/21/8da06ca2796dd669ad763e5a8c8ccc09.png)
+3. 【修复】修复屏蔽重复弹幕和屏蔽弹幕背景失效的bug
 
 
 
