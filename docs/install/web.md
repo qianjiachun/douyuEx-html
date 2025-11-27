@@ -13,15 +13,19 @@
 <!-- <advertisement /> -->
 
 ### 本次更新内容
+1. 【新增】关注列表新增"在当前页面加载"选项[#126](https://github.com/qianjiachun/douyuEx/pull/126)
+2. 【修复】修复屏蔽重复弹幕后依旧会响应鼠标事件的bug，优化屏蔽重复弹幕性能
+3. 【修复】修复回复加一按钮不显示的bug
+
+
+### 2025年11月21日
 1. 【新增】新增[画质增强](https://www.microsoft.com/zh-cn/edge/features/enhance-video?form=MT0160)，[实时视频翻译](https://www.microsoft.com/zh-cn/edge/features/real-time-video-translation?form=MA13FJ)，仅支持Edge浏览器
 2. 【新增】屏蔽重复弹幕可支持自定义时间，并且支持逐渐放大重复弹幕和重复弹幕计数
 ![img1](https://s1.imagehub.cc/images/2025/11/21/740cf1991b56ecaa183d656125a5d0fb.png)
 ![img2](https://c-yuba.douyucdn.cn/yubavod/b/zEqAvQaXrd5L/c16fdac3db1903db3a39a6557c2b5ab5.gif)
 ![img3](https://s1.imagehub.cc/images/2025/11/21/8da06ca2796dd669ad763e5a8c8ccc09.png)
-3. 【修复】修复屏蔽重复弹幕和屏蔽弹幕背景失效的bug
 
-
-
+  
 ### 没有精灵球图标？
 1. 点击油猴脚本图标，查看是否有如下蓝框，按蓝框所示内容操作即可
 ![tampermonkey](https://s1.imagehub.cc/images/2024/11/05/952021a57d03a82bf99c33fa360f93f7.png)
