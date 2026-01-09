@@ -13,17 +13,13 @@
 <!-- <advertisement /> -->
 
 ### 本次更新内容
-1. 【修复】修复新版UI下插件不生效的bug
-2. 【修复】修复屏蔽重复弹幕放大动画偶尔会失效的bug
-3. 【优化】优化自动更新执行时机
-
-
-### 2025年11月21日
-1. 【新增】新增[画质增强](https://www.microsoft.com/zh-cn/edge/features/enhance-video?form=MT0160)，[实时视频翻译](https://www.microsoft.com/zh-cn/edge/features/real-time-video-translation?form=MA13FJ)，仅支持Edge浏览器
-2. 【新增】屏蔽重复弹幕可支持自定义时间，并且支持逐渐放大重复弹幕和重复弹幕计数
-![img1](https://s1.imagehub.cc/images/2025/11/21/740cf1991b56ecaa183d656125a5d0fb.png)
-![img2](https://c-yuba.douyucdn.cn/yubavod/b/zEqAvQaXrd5L/c16fdac3db1903db3a39a6557c2b5ab5.gif)
-![img3](https://s1.imagehub.cc/images/2025/11/21/8da06ca2796dd669ad763e5a8c8ccc09.png)
+1. 【新增】自动钓鱼新增只在钓鱼大赛时段开启的功能
+2. 【修复】修复直播流无法解析的bug（直播流获取、音频流播放、同屏播放）
+3. 【修复】修复弹幕action按钮会被进度条遮挡的bug
+4. 【修复】修复星推荐红包不显示的bug
+5. 【修复】修复截图功能分辨率不正确的bug
+6. 【删除】删除返回旧版功能（已无旧版）
+7. 【优化】优化扩展功能面板UI
 
   
 ### 没有精灵球图标？

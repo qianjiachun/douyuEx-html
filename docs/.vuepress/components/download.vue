@@ -7,7 +7,7 @@ export default {
     data() {
         //这里存放数据
         return {
-            currentVersion: "2025.12.01.02"
+            currentVersion: "2026.01.09.01"
         };
     },
     methods: {
