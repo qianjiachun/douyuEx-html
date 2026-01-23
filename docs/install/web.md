@@ -22,10 +22,9 @@
 7. 【优化】优化扩展功能面板UI
 
   
-### 没有精灵球图标？
-1. 点击油猴脚本图标，查看是否有如下蓝框，按蓝框所示内容操作即可
-![tampermonkey](https://s1.imagehub.cc/images/2024/11/05/952021a57d03a82bf99c33fa360f93f7.png)
-![dev](https://s1.imagehub.cc/images/2024/11/18/36658677e409160586b874ffc0f7a354.png)
+### 没有精灵球图标❓
+1. 点击油猴脚本图标，打开【开发人员模式】，打开【允许用户脚本】，然后重启浏览器即可
+![dev1](https://s1.imagehub.cc/images/2026/01/23/1a1060003373bb529b0801f337aa870b.png)
   
 2. [chrome中斗鱼ex安装后无效果解决办法](https://www.bilibili.com/opus/1098520091678474243)
 
