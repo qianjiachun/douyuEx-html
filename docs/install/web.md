@@ -13,8 +13,8 @@
 <!-- <advertisement /> -->
 
 ### 本次更新内容
-1. 【修复】修复右键弹幕会卡死的bug
-2. 【修复】修复背包物品使用后，过期时间角标错位 [#134](https://github.com/qianjiachun/douyuEx/pull/134)
+1. 【新增】鼠标移动到音量图标后，滚轮可以调节音量大小 [#137](https://github.com/qianjiachun/douyuEx/pull/137)
+2. 【新增】未开播时，会显示上次开播时间
 
   
 ### 没有精灵球图标❓
