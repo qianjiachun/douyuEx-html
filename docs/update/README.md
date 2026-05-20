@@ -1,6 +1,17 @@
 ## 更新内容
 <!-- <advertisement/> -->
 
+### 2026年5月20日
+1. 【新增】增强版画中画功能，支持弹幕飘屏、发弹幕、弹幕样式自定义等功能[#145](https://github.com/qianjiachun/douyuEx/pull/145)
+2. 【新增】右上角真实人数新增贵宾数显示
+3. 【新增】直播工具条新增精灵球，可用于隐藏礼物栏后使用插件功能
+4. 【新增】新增未登录斗鱼的情况下，可锁定观看最高画质
+5. 【修复】修复直播回放切换分P时时间轴不正确的bug
+6. 【修复】修复同屏播放解析直播流失败的bug[#146](https://github.com/qianjiachun/douyuEx/pull/146)
+7. 【优化】隐藏礼物栏开关移动到左侧，避免遮挡
+
+![img1](https://c-yuba.douyucdn.cn/yubavod/b/zEqAvQaXrd5L/c360a8a95a07bdaa4c27f67e348404a4.png)
+
 ### 2026年4月24日
 1. 【新增】续粉丝牌新增平均赠送功能 [#141](https://github.com/qianjiachun/douyuEx/pull/141)
 2. 【新增】新增重置所有设置功能，用于插件恢复出厂设置

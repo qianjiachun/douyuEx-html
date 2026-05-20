@@ -299,3 +299,8 @@
 - [画质增强功能说明](https://www.microsoft.com/zh-cn/edge/features/enhance-video?form=MT0160)
 - [实时视频翻译功能说明](https://www.microsoft.com/zh-cn/edge/features/real-time-video-translation?form=MA13FJ)
 - 在直播滤镜中开启该功能
+  
+### 增强版画中画
+- 支持显示弹幕
+- 支持弹幕样式自定义
+- 支持发弹幕
